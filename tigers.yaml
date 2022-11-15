@@ -1,15 +1,13 @@
 team: Tigers
 
-<<<<<<< HEAD
-manager: Brenda
-=======
 manager: Kenneth
->>>>>>> to-merge
 
-coach: Ruth
+coach: Grace
 
 members:
 - Linda
 - William
 - David
 - George
+- Tyler 
+- Kim
